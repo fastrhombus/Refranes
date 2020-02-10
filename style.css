@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+    font-size: 150%;
+}
+h1{
+    text-transform: uppercase;
+    border: 5px black solid;
+    text-align: center;
+    font-size: 200%;
+}
+p.primero{
+    border-top: 20px red double;
+    border-left: 20px red double;
+}
+p.segundo{
+    border-top: 5px blue dashed;
+    border-left: 40px green solid;
+    border-bottom: 20px blue dashed;
+    border-right: 10px green dashed;
+}
+p.tercero{
+    border: 40px rgb(255, 208, 0) double;
+    border-left: 10px rgb(255, 208, 0) double;
+    border-right: 10px rgb(255, 208, 0) double;
+}
+p.cuarto{
+    border-top: 20px rgb(47, 255, 64) solid;
+    border-bottom: 20px blue solid;
+}
+p.quinto{
+    border: 40px black solid;
+    border-top: 40px red dashed;
+    border-bottom: 40px dotted;
+}
+p.sexto{
+    border-top: 10px black dotted;
+    border-left: 40px red double;
+    border-right: 40px black solid;
+    border-bottom: 20px black dashed;
+}
